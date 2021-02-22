@@ -28,4 +28,5 @@ showing the murder rate by state:
 
 ![](Report-on-Gun-Morders_files/figure-gfm/murder-rate-by-state-1.png)<!-- -->
 
+
 Here 32 cars are compared
