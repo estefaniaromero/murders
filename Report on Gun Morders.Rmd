@@ -1,6 +1,6 @@
 ---
 title: "Report on Gun Murders"
-author: "Estefania Romero"
+author: "Estefania Romero - "
 date: "`r format(Sys.Date())`"
 output: github_document
 ---
